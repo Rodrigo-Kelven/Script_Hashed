@@ -1,14 +1,14 @@
 # Projeto de criptografia de dados de forma irreversível
 
-Este script em Python lê um arquivo binário, calcula o hash SHA-256 de cada byte e substitui o byte original pelo seu respectivo hash. O resultado é um novo arquivo que contém os hashes SHA-256 de cada byte do arquivo original.
+Este script em Python lê um arquivo binário, calcula o hash [SHA-256](https://pt.wikipedia.org/wiki/SHA-2) de cada byte e substitui o byte original pelo seu respectivo hash. O resultado é um novo arquivo que contém os hashes SHA-256 de cada byte do arquivo original.
 Este projeto fornece um script que permite ao usuário criptografar dados de forma irrevesível. 
 Foi cridao para fins educacionais.
-O script exibe outro arquivo ***copiado*** criptografado com SHA-256.
+O script exibe outro arquivo ***copiado*** criptografado com [SHA-256](https://pt.wikipedia.org/wiki/SHA-2).
 Ainda está bem ***cru***, será usado em outros futúros projetos como uma alternativa open-source criada por mim.
 
 ## Funcionalidades
 
-- Criptografia: de forma irreversível, os dados são criptografados com SHA-256
+- Criptografia: de forma irreversível, os dados são criptografados com [SHA-256](https://pt.wikipedia.org/wiki/SHA-2)
 
 ## Melhorias
 
