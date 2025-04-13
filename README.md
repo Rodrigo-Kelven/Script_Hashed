@@ -1,4 +1,5 @@
 # Projeto de criptografia de dados de forma irreversível
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 Este script em Python lê um arquivo binário, calcula o hash [SHA-256](https://pt.wikipedia.org/wiki/SHA-2) de cada byte e substitui o byte original pelo seu respectivo hash. O resultado é um novo arquivo que contém os hashes SHA-256 de cada byte do arquivo original.
 Este projeto fornece um script que permite ao usuário criptografar dados de forma irrevesível. 
